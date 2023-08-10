@@ -8,8 +8,6 @@
 	revision="lineage-20" />
 
     <!-- Device / Kernel prebuilts -->
-    <project path="device/xiaomi/viva" name="android_device_xiaomi_viva"
-        remote="6781-dev" />
     <project path="device/xiaomi/viva-kernel"
         name="android_device_xiaomi_viva-kernel"
         remote="6781-dev" />
